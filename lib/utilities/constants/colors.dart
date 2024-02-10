@@ -17,6 +17,8 @@ class TestColors {
   static const Color primaryColor = Color(0xFF4B68FF);
   static const Color secondaryColor = Color(0xFFFFE24B);
   static const Color accent = Color(0xFFB0C7FF);
+  static const Color testAccent = Color(0xFFB0C788);   //temp
+
 
   // Text Colors
   static const Color textPrimary = Color(0xFF333333);
